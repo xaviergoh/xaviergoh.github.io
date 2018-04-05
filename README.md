@@ -4,8 +4,7 @@ An ambitious and dedicated individual, seeking an internship experience in the
 engineering/tech industry. I pursued Electrical Engineering to help realise a lifetime ambition of
 running a tech start-up. I am looking for an avenue to develop competencies and acquire
 knowledge required to run a successful start-up which I believe is available in a practical and
-fast-paced environment.
-Possess excellent communication skills and have developed and maintained successful
+fast-paced environment. Possess excellent communication skills and have developed and maintained successful
 working relationships. Essentially, an optimistic and open-minded individual looking to achieve
 self-actualisation.
 
