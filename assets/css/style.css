@@ -886,8 +886,11 @@ Resume Timeline
 }
 
 .timeline>li .timeline-content:hover {
+    /*
     background: #68c3a3;
     color: #fff;
+    */
+
 }
 
 .timeline>li .timeline-panel::before,
@@ -907,7 +910,9 @@ Resume Timeline
     transition: all 400ms;
 }
 .timeline>li .timeline-panel:hover::before {
+/*
     border-left: 12px solid #68c3a3;
+*/
 }
 
 .timeline>li.timeline-inverted .timeline-panel::before {
@@ -919,8 +924,10 @@ Resume Timeline
     transition: all 400ms;
 }
 .timeline>li.timeline-inverted .timeline-panel:hover::before {
+/*
     border-right: 12px solid #68c3a3;
     border-left: 0;
+*/
 }
 
 .timeline>li .timeline-panel::after,
@@ -941,7 +948,9 @@ Resume Timeline
     transition: all 400ms;
 }
 .timeline>li .timeline-panel:hover::after {
+    /*
     border-left: 12px solid #68c3a3;
+    */
 }
 
 .timeline>li.timeline-inverted .timeline-panel::after {
@@ -954,8 +963,10 @@ Resume Timeline
     transition: all 400ms;
 }
 .timeline>li.timeline-inverted .timeline-panel:hover::after {
+/*
     border-right: 12px solid #68c3a3;
     border-left: 0;
+*/
 }
 
 .timeline>li .posted-date {
