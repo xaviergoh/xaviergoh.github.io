@@ -254,7 +254,7 @@ ul.list-check {
 }
 
 ul.list-check li{
-    position: relative;
+    <!-- position: static;-->
     font-size: 18px;
     line-height: 32px;
 }
@@ -265,6 +265,21 @@ ul.list-check li::before {
     margin-right: 10px;
 }
 
+ul.list-check-2 {
+
+}
+
+ul.list-check-2 li{
+    <!-- position: static;-->
+    font-size: 18px;
+    line-height: 32px;
+}
+ul.list-check-2 li::before {
+    content: "\f087";
+    font-family: fontawesome;
+    color: #68c3a3;
+    margin-right: 10px;
+}
 
 /* === MAIN === */
 .section-padding {
@@ -306,7 +321,7 @@ ul.list-check li::before {
 
 
 #home {
-	background: url(../images/home2.jpg) no-repeat center center;
+	background: url(../images/HomeBG.jpeg) no-repeat center center;
 	-webkit-background-attachment: fixed;
     background-attachment: fixed;
 	background-color: #222;
@@ -316,7 +331,7 @@ ul.list-check li::before {
 }
 #home:before {
 	content: "";
-	background-color: rgba(26, 30, 35, 0.85);
+	background-color: rgba(26, 30, 35, 0.75);
 	position: absolute;
 	top: 0;
 	left: 0;
